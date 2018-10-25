@@ -8,4 +8,5 @@ dependencies:
   - pandas
   - matplotlib
   - ipywidgets
+  - jupyterlab
   - healpy
