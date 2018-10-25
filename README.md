@@ -1,6 +1,8 @@
 Advanced Pandas topics with an example in Astrophysics
 ======================================================
 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/zonca/pandas-astro-example/master?filepath=astro_example.ipynb)
+
 In this example we will work with observations of the Cosmic Microwave Background from the Planck satellite using advanced functionalities of `pandas` and `numpy` and we will create plots with `matplotlib`.
 
 In section 1 we will read a map created by the Planck satellite and we will familiarize with HDF5 format and working with hierarchical indexing in `pandas`. We will also visualize sky maps in `matplotlib` using a curvilinear projection.
