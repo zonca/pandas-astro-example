@@ -1,0 +1,11 @@
+name: pandas-astro-environment
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - pytables
+  - pandas
+  - matplotlib
+  - ipywidgets
+  - healpy
