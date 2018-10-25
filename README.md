@@ -1,7 +1,7 @@
 Advanced Pandas topics with an example in Astrophysics
 ======================================================
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/zonca/pandas-astro-example/master?filepath=lab)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/zonca/pandas-astro-example/master?filepath=astro_example.ipynb)
 
 In this example we will work with observations of the Cosmic Microwave Background from the Planck satellite using advanced functionalities of `pandas` and `numpy` and we will create plots with `matplotlib`.
 
